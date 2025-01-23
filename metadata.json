@@ -1,0 +1,17 @@
+{
+    "name": "Cicciogamer89",
+    "symbol": "PAGURO",
+    "description": "Bella a tutti ragazzi e benvenuti nel METAVERSO!",
+    "image": "https://github.com/therealful/token",
+    "decimals": 9,
+    "properties": {
+      "category": "Fungible",
+      "creators": [
+        {
+          "address": "7dYHVqXzjH81iqXNG41KRnL3ZyQhwBTVbp1fpvNhT2Tf",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
